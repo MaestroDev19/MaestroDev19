@@ -63,14 +63,10 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Maestro20Clutch">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Maestro20Clutch&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/o7pnm7d7altlbzz7qcrh9pq7o">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=o7pnm7d7altlbzz7qcrh9pq7o&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/MaestroDev19/MaestroDev19/output/snake.svg" alt="Snake animation" />
 
 ###
 
