@@ -107,3 +107,9 @@ I specialize in:
 ---
 
 > “Build with purpose. Scale with vision. Learn endlessly.” 💡
+
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
