@@ -31,6 +31,30 @@ I'm currently pursuing my **MSc in Artificial Intelligence** at **Aston Universi
 
 ---
 
+
+### 🧠 [CyberGemma3-merged](https://huggingface.co/MaestroDev19/MentalGemma3)
+**Mental health focused LLM**
+> Fine-tuned model for mental health support and analysis.
+- 🤖 **Tech**: Transformers, Hugging Face, PyTorch.
+- 🌟 **Features**: Mental health context understanding, empathetic responses.
+
+### ⚽ [base-football](https://github.com/MaestroDev19/base-football)
+**Group Work Contribution**
+> Collaborative project focused on football data analysis/platform.
+- 👥 **Role**: Contributor (Group Work).
+
+### 🌍 [cross-xnli-african-languages](https://github.com/Nwokochahannah/cross-xnli-african-languages)
+**Multilingual LLM Reasoning Research**
+> Studying reasoning consistency in multilingual LLMs using the XNLI dataset translated into African languages.
+- 🔬 **Role**: Contributor (Group Research).
+- 📚 **Tech**: LLMs, XNLI, African Languages NLP.
+
+### 🔒 [keepsafe](https://github.com/MaestroDev19/keepsafe)
+**Locket Style Diary**
+> Locket Style Diary for saving memories privately or with friends.
+- 🤝 **Role**: Contributor (Duo Project).
+- 📱 **Tech**: TypeScript, Mobile/Web.
+
 ## 🛠️ Skills & Tools
 
 <p align="left">
