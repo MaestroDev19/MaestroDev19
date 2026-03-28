@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00ff87,50:00b4d8,100:0077b6&amp;height=220&amp;section=header&amp;text=Charles%20Arowolo&amp;fontSize=55&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20%26%20AI%20Engineer%20%7C%20MSc%20Artificial%20Intelligence&amp;descAlignY=58&amp;descSize=17&amp;animation=fadeIn" />
+
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -199,23 +199,11 @@ class CharlesArowolo:
 
 ---
 
-## 🎧 Now Playing on Spotify
-
-<div align="center">
-
-[![Spotify](https://novatorem-nine-virid.vercel.app/api/spotify?background_color=0d1117&amp;border_color=00ff87)](https://open.spotify.com/user/o7pnm7d7altlbzz7qcrh9pq7o)
-
-> *"The playlist is the second co-pilot."* 🎧
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MaestroDev19&amp;show_icons=true&amp;bg_color=0d1117&amp;title_color=00ff87&amp;icon_color=00b4d8&amp;text_color=c9d1d9&amp;border_color=00ff8744&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=false&amp;custom_title=Charles's+GitHub+Stats" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaestroDev19&amp;background=0d1117&amp;ring=00ff87&amp;fire=00b4d8&amp;currStreakLabel=00ff87&amp;sideLabels=c9d1d9&amp;dates=c9d1d9&amp;sideNums=00ff87&amp;currStreakNum=ffffff&amp;border=00ff8744" />
 
 </div>
