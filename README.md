@@ -151,7 +151,6 @@ class CharlesArowolo:
 ### ☁️ Cloud / Hosting / SaaS
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
 </p>
 
 ### 🤖 ML / DL
